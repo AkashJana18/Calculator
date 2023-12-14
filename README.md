@@ -1,4 +1,7 @@
 # Calculator
+
+https://akashjana18.github.io/Calculator/
+
 This code is a basic implementation of a calculator web application using HTML, CSS, and JavaScript.
 
 HTML is used to create the structure of the calculator, with buttons for numbers, operators, and functions like clear and backspace. CSS is used for styling, including a dark theme toggle button, and JavaScript is used to handle button clicks and perform calculations. It also support paranthese to carry out complex calculations.
